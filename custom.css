@@ -1,0 +1,37 @@
+/* UTU Brand Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Noto+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+/* Base typography */
+body {
+  font-family: 'Noto Sans', Arial, sans-serif;
+  color: #000000;
+}
+
+/* Headings use Playfair Display in UTU green */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 600;
+  color: #004A43;
+}
+
+/* Links in UTU dark green */
+a {
+  color: #004A43;
+}
+
+a:visited {
+  color: #004A43;
+}
+
+a:hover {
+  color: #004A43;
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+/* Post/page titles */
+.post-title,
+.page-title {
+  font-family: 'Playfair Display', serif;
+  color: #004A43;
+}
