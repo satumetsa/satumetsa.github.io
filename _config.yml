@@ -4,8 +4,7 @@ description: >-
     Public economics, Behavioral economics, Experimental economics, Survey methods
 baseurl: ""
 url: "https://satumetsa.github.io"
-twitter_username: SatuMetsalampi
-github_username:  satumetsa
+github_username: satumetsa
 
 # Build settings
 theme: minima
