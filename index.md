@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img style="float: left; padding-right: 15px" img src= "{{ site.url }}/assets/img/satumetsalampi.jpg" alt="Satu Metsälampi" width="150"/>
+<img style="float: left; padding-right: 15px" img src= "{{ site.url }}/assets/img/satumetsalampi.jpg" alt="Satu Metsälampi" width="75"/>
 
 I am a postdoctoral researcher at the Department of Economics, University of Turku, Finland, and lab manager of the UTU Choice Lab.
 
