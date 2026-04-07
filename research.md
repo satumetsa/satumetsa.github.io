@@ -4,18 +4,30 @@ title: Research
 permalink: /Research/
 ---
 
-# Working papers
+# Peer-reviewed publications
 
-[Xiaogeng Xu & **Satu Metsälampi** & Michael Kirchler & Kaisa Kotakorpi & Peter Hans Matthews & Topi Miettinen, 2023. "Which income comparisons matter to people, and how? Evidence from a large field experiment," Working Papers 10, Finnish Centre of Excellence in Tax Systems Research.](https://verotutkimus.fi/verotutkimus/wp-content/uploads/2023/05/FIT-WP-10-Which-income-comparisons-matter-to-people-and-why-110523.pdf)
+Xu, Xiaogeng, **Satu Metsälampi**, Michael Kirchler, Kaisa Kotakorpi, Peter Hans Matthews, and Topi Miettinen. "Which Reference Groups Matter and How? A Relative Income Information Experiment with Administrative Data." *American Economic Journal: Applied Economics*. Forthcoming. [https://doi.org/10.1257/app.20240181](https://doi.org/10.1257/app.20240181)
 
-[Kotakorpi, Kaisa, **Satu Metsälampi**, Topi Miettinen, and Tuomas Nurminen. 2021. “Bearing the Burden -- Implications of Tax Reporting Institutions and Image Concerns on Evasion and Incidence.”](https://drive.google.com/file/d/16nbBZeHjeCzdkAnwBGxNZV9sS_EEgbBH/view)
+Kotakorpi, Kaisa, Tuomas Nurminen, Topi Miettinen, and **Satu Metsälampi**. 2024. "Bearing the Burden — Implications of Tax Reporting Institutions on Evasion and Incidence." *Journal of Economic Behavior & Organization* 220 (April): 81–134. [http://dx.doi.org/10.1016/j.jebo.2024.01.021](http://dx.doi.org/10.1016/j.jebo.2024.01.021)
 
 
-# Work in progress
+# Other publications
 
-"Finding the Right Pond: Field Experimental Evidence On The Choice of Income Reference Groups And Its Consequences", with Michael Kirchler, University of Innsbruck; Kaisa Kotakorpi, University of Tampere; Peter Hans Matthews, Middlebury College; Topi Miettinen, Hanken School of Economics; Xiaogeng Xu, Hanken School of Economics.
+Metsälampi, Satu. 2025. "Essays on Behavioral Public Economics." Doctoral Dissertation, Turku: University of Turku. [https://urn.fi/URN:ISBN:978-952-02-0103-6](https://urn.fi/URN:ISBN:978-952-02-0103-6)
 
-"Effects of income rank on risk taking behavior", with Michael Kirchler, University of Innsbruck; Kaisa Kotakorpi, University of Tampere; Peter Hans Matthews, Middlebury College; Topi Miettinen, Hanken School of Economics; Xiaogeng Xu, Hanken School of Economics.
 
-"Monetary incentives, unit non-response, survey attrition and response behavior", with Topi Miettinen, Hanken School of Economics.
+# Working papers and work in progress
 
+"Which Ponds Do We Choose, and Why? The Choice of Income Reference Group and Its Consequences", with Xiaogeng Xu, Michael Kirchler, Kaisa Kotakorpi, Peter Hans Matthews and Topi Miettinen. Submitted. (Manuscript available upon request)
+
+"Inequality and social preferences - an experimental study with register data", with Xiaogeng Xu, Michael Kirchler, Kaisa Kotakorpi, Peter Hans Matthews and Topi Miettinen. [Pre-analysis plan.](https://doi.org/10.17605/OSF.IO/PSBD4)
+
+"Adoption and Effects of Free Contraception Programs in Finland", with Milla Hägg, Elina Jussila, Mika Kortelainen and Marika Viertola. [OSF project.](https://osf.io/bgxq4)
+
+"Causes and consequences of abortion denials for women seeking legal termination of pregnancy in Finland in the 1950s and 1960s — evidence from archival data and administrative records."
+
+"Investigation of the intertwined nature of risk and time preferences using a large-scale general population sample", with Heikki Kauppi and Tuomas Nurminen.
+
+"Best practices and effectiveness of recruiting and retaining a general population research participant pool", with Heikki Kauppi and Tuomas Nurminen.
+
+"Effect of image concerns and lying aversion on tax incidence in the presence of tax evasion — evidence from the lab", with Kaisa Kotakorpi, Topi Miettinen and Tuomas Nurminen.
